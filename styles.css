@@ -1,0 +1,24 @@
+body {
+    
+    text-align: center;
+    
+    font-family: 'Arial';
+    
+    background: darkblue;
+    
+    color: gold;
+    
+    img {
+        
+        width: 500px
+            
+    }
+    
+    .permanent-marker-regular {
+  font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+    
+}
